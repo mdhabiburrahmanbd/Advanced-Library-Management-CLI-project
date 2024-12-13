@@ -1,0 +1,22 @@
+[
+    {
+        "title": "book 1",
+        "author": "habib",
+        "isbn": 38529,
+        "year": 2024,
+        "price": 100,
+        "quantity": 0,
+        "bookAddedAt": "11-12-2024 22:06:44",
+        "bookLastUpdatedAt": "13-12-2024 20:52:20"
+    },
+    {
+        "title": "Habib Python Book",
+        "author": "Mohammed Habibur rahman",
+        "isbn": 16346,
+        "year": 2024,
+        "price": 100,
+        "quantity": 10,
+        "bookAddedAt": "13-12-2024 20:45:43",
+        "bookLastUpdatedAt": "13-12-2024 20:48:21"
+    }
+]
